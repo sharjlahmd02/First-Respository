@@ -1,0 +1,9 @@
+This is a methode how to post a repository
+
+git config --global user.name "sharjeel"
+git config --global user.email "sharjlbalouch319@gmail"
+
+
+git add*
+git commit -m "How to upload repository"
+git push
